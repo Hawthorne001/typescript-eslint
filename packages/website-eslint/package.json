@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@typescript-eslint/types": "7.7.1",
-    "@typescript-eslint/utils": "7.7.1"
+    "@typescript-eslint/utils": "5.10.0"
   },
   "devDependencies": {
     "@eslint/js": "*",
