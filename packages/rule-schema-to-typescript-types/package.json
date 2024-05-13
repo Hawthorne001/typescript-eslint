@@ -34,7 +34,7 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
-    "@typescript-eslint/type-utils": "7.7.1",
+    "@typescript-eslint/type-utils": "5.9.0",
     "@typescript-eslint/utils": "7.7.1",
     "natural-compare": "^1.4.0",
     "prettier": "^3.2.5"
