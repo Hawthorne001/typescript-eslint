@@ -41,7 +41,7 @@ const tuple1 = ['a', anyTyped, 'b'] as const;
 foo(...tuple1);
 
 const tuple2 = [1] as const;
-foo('a', ...tuple, anyTyped);
+foo('a', ...tuple2, anyTyped);
 
 declare function bar(arg1: string, arg2: number, ...rest: string[]): void;
 const x = [1, 2] as [number, ...number[]];
@@ -90,6 +90,7 @@ You might consider using [ESLint disable comments](https://eslint.org/docs/lates
 
 ## Related To
 
+- [Avoiding `any`s with Linting and TypeScript](/blog/avoiding-anys)
 - [`no-explicit-any`](./no-explicit-any.mdx)
 - [`no-unsafe-assignment`](./no-unsafe-assignment.mdx)
 - [`no-unsafe-call`](./no-unsafe-call.mdx)
