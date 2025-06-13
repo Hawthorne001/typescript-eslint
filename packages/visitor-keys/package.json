@@ -47,7 +47,7 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
-    "@typescript-eslint/types": "7.7.1",
+    "@typescript-eslint/types": "3.5.0",
     "eslint-visitor-keys": "^3.4.3"
   },
   "devDependencies": {
