@@ -38,7 +38,7 @@
     "@uiw/react-shields": "2.0.1",
     "clsx": "^2.1.0",
     "docusaurus-plugin-typedoc": "^1.4.0",
-    "eslint": "^9.15.0",
+    "eslint": "^9.27.0",
     "gray-matter": "^4.0.3",
     "json5": "^2.2.3",
     "konamimojisplosion": "^0.5.2",
