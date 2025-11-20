@@ -45,8 +45,8 @@
   },
   "dependencies": {
     "@typescript-eslint/types": "8.47.0",
-    "@typescript-eslint/typescript-estree": "8.47.0",
-    "@typescript-eslint/utils": "8.47.0",
+    "@typescript-eslint/typescript-estree": "0.1.0",
+    "@typescript-eslint/utils": "5.10.0",
     "debug": "^4.3.4",
     "ts-api-utils": "^2.1.0"
   },
