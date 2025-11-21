@@ -59,9 +59,9 @@
   },
   "dependencies": {
     "@eslint-community/regexpp": "^4.10.0",
-    "@typescript-eslint/scope-manager": "8.47.0",
-    "@typescript-eslint/type-utils": "8.47.0",
-    "@typescript-eslint/utils": "8.47.0",
+    "@typescript-eslint/scope-manager": "3.5.0",
+    "@typescript-eslint/type-utils": "5.9.0",
+    "@typescript-eslint/utils": "5.10.0",
     "@typescript-eslint/visitor-keys": "8.47.0",
     "graphemer": "^1.4.0",
     "ignore": "^7.0.0",
