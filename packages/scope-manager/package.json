@@ -47,8 +47,8 @@
     "typecheck": "yarn run -BT nx typecheck"
   },
   "dependencies": {
-    "@typescript-eslint/types": "8.47.0",
-    "@typescript-eslint/visitor-keys": "8.47.0"
+    "@typescript-eslint/types": "3.5.0",
+    "@typescript-eslint/visitor-keys": "3.5.0"
   },
   "devDependencies": {
     "@typescript-eslint/typescript-estree": "8.47.0",
